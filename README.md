@@ -2,7 +2,7 @@
 My name is Lesego,and I'm a first year Bsc Computer science student at the University of Pretoria insterested in all things about Cyber Security & Python!
 - 🔭 I’m currently working on getting a certificate of CompTIA Security+,[https://www.udemy.com/home/my-courses/learning/]
 - 🌱 I’m currently learning C++ OOP
-- 🤔 I’m looking for help with intership as a Junior Developer/cybersecurity
+- 🤔 I’m looking for help with an intership as a Junior Developer/cybersecurity
 - 📫 How to reach me: magezalesego@gmail.com 
 <!--
 **lesego432/lesego432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
